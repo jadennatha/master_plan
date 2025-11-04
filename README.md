@@ -39,19 +39,20 @@ Tampilan utama aplikasi untuk mengelola tugas.
 Implementasi tombol untuk menambah tugas baru.
 
 ![Add Task Button Implementation](/images/ss_readme_6.png)
+![Task List Implementation](/images/ss_readme_7.png)
 
 #### b. Task List
 Widget untuk menampilkan daftar tugas.
 
-![Task List Implementation](/images/ss_readme_7.png)
+![Task List Implementation](/images/ss_readme_8.png)
 
 #### c. Task Tile
 Komponen individual untuk setiap tugas.
 
-![Task Tile Implementation](/images/ss_readme_8.png)
+![Task Tile Implementation](/images/ss_readme_9.png)
 
 ### 4. Final Result
 
 Tampilan akhir aplikasi setelah implementasi selesai:
 
-![Final Application View](/images/ss_readme_9.png)
+![Final Result](/images/ss_readme_10.png)
